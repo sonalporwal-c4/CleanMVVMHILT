@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidGradleBuildConfiguration">
+    <option name="COMMAND_LINE_OPTIONS" value="-Pdisable-performance-plugin" />
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="937050c9-0dc4-4141-8394-4fb3bd791b1d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Nexus_9_API_29]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="valueResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1nMAtai4RputLo3qR8zi9g5vGkp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="samsung-sm_g980f-RF8NA1BJ6NY" />
+    <property name="DEBUGGABLE_PROCESS" value="com.cleanmvvm.starwars" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Nexus_9_API_29" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-01-22T16:56:28.378Z" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="ScreenshotViewer.SavePath" value="$PROJECT_DIR$" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/mipmap" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/mipmap" />
+    <property name="settings.editor.selected.configurable" value="experimental" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.cleanmvvm.starwars.presentation" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.cleanmvvm.starwars.presentation.search.view" />
+      <recent name="com.cleanmvvm.starwars.presentation.search.adapter" />
+      <recent name="com.cleanmvvm.starwars.presentation.details.view" />
+      <recent name="com.cleanmvvm.starwars.rule" />
+      <recent name="com.cleanmvvm.starwars.data.base" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.cleanmvvm.starwars.viewmodel" />
+      <recent name="com.cleanmvvm.starwars.data.interactors" />
+      <recent name="com.cleanmvvm.starwars.data.base" />
+      <recent name="com.cleanmvvm.starwars.data.repository" />
+      <recent name="com.cleanmvvm.starwars.data.dto" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cleanmvvm.starwars.presentation.search.view" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/mipmap" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26" />
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/cleanmvvm/starwars/presentation/details/adapter" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/layout" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android JUnit.CharacterDetailsViewModelTest">
+    <configuration name="CharacterDetailsDTOTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="starwars.data" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cleanmvvm.starwars.data.dto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cleanmvvm.starwars.data.dto" />
+      <option name="MAIN_CLASS_NAME" value="com.cleanmvvm.starwars.data.dto.CharacterDetailsDTOTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CharacterDetailsViewModelTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="starwars.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cleanmvvm.starwars.viewmodel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cleanmvvm.starwars.viewmodel" />
+      <option name="MAIN_CLASS_NAME" value="com.cleanmvvm.starwars.viewmodel.CharacterDetailsViewModelTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetCharacterDetailsUseCaseTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="starwars.data" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cleanmvvm.starwars.data.interactors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cleanmvvm.starwars.data.interactors" />
+      <option name="MAIN_CLASS_NAME" value="com.cleanmvvm.starwars.data.interactors.GetCharacterDetailsUseCaseTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchCharacterViewModelTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="starwars.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cleanmvvm.starwars.viewmodel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cleanmvvm.starwars.viewmodel" />
+      <option name="MAIN_CLASS_NAME" value="com.cleanmvvm.starwars.viewmodel.SearchCharacterViewModelTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarWarClientImplTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="starwars.data" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cleanmvvm.starwars.data.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cleanmvvm.starwars.data.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.cleanmvvm.starwars.data.repository.StarWarClientImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="starwars.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.CharacterDetailsViewModelTest" />
+        <item itemvalue="Android JUnit.CharacterDetailsDTOTest" />
+        <item itemvalue="Android JUnit.StarWarClientImplTest" />
+        <item itemvalue="Android JUnit.SearchCharacterViewModelTest" />
+        <item itemvalue="Android JUnit.GetCharacterDetailsUseCaseTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="937050c9-0dc4-4141-8394-4fb3bd791b1d" name="Default Changelist" comment="" />
+      <created>1611189801241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611189801241</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1611335141435">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="555" y="166" key="#com.intellij.ide.util.MemberChooser/0.23.1680.975@0.23.1680.975" timestamp="1611335141435" />
+    <state x="254" y="427" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1611193108078">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="254" y="427" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1680.975@0.23.1680.975" timestamp="1611193108078" />
+    <state x="563" y="376" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1611193111469">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="563" y="376" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.23.1680.975@0.23.1680.975" timestamp="1611193111469" />
+    <state x="397" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1611353227319">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="397" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1680.975@0.23.1680.975" timestamp="1611353227319" />
+    <state x="512" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611360654894">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state x="512" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.975@0.23.1680.975" timestamp="1611353342240" />
+    <state x="512" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.976@0.23.1680.976" timestamp="1611360654894" />
+    <state x="563" y="266" width="677" height="488" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1611353796139">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="563" y="266" width="677" height="488" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.23.1680.975@0.23.1680.975" timestamp="1611353796139" />
+    <state x="425" y="265" key="AndroidCreateResourceFileDialog" timestamp="1611352779171">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="425" y="265" key="AndroidCreateResourceFileDialog/0.23.1680.975@0.23.1680.975" timestamp="1611352779171" />
+    <state x="636" y="235" key="AndroidCreateXmlResourceDialog" timestamp="1611326913634">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="636" y="235" key="AndroidCreateXmlResourceDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1611326913634" />
+    <state x="572" y="244" key="AndroidProcessChooserDialog" timestamp="1611347431653">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="572" y="238" key="AndroidProcessChooserDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1611327916509" />
+    <state x="572" y="244" key="AndroidProcessChooserDialog/0.23.1680.975@0.23.1680.975" timestamp="1611347431653" />
+    <state width="1620" height="244" key="GridCell.Tab.0.bottom" timestamp="1611362500379">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state width="1620" height="269" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1611327916922" />
+    <state width="1620" height="307" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1611358972559" />
+    <state width="1620" height="244" key="GridCell.Tab.0.bottom/0.23.1680.976@0.23.1680.976" timestamp="1611362500379" />
+    <state width="1620" height="244" key="GridCell.Tab.0.center" timestamp="1611362500378">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state width="1620" height="269" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1611327916921" />
+    <state width="1620" height="307" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1611358972558" />
+    <state width="1620" height="244" key="GridCell.Tab.0.center/0.23.1680.976@0.23.1680.976" timestamp="1611362500378" />
+    <state width="1620" height="244" key="GridCell.Tab.0.left" timestamp="1611362500378">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state width="1620" height="269" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1611327916920" />
+    <state width="1620" height="307" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1611358972558" />
+    <state width="1620" height="244" key="GridCell.Tab.0.left/0.23.1680.976@0.23.1680.976" timestamp="1611362500378" />
+    <state width="1620" height="244" key="GridCell.Tab.0.right" timestamp="1611362500378">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state width="1620" height="269" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1611327916922" />
+    <state width="1620" height="307" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1611358972559" />
+    <state width="1620" height="244" key="GridCell.Tab.0.right/0.23.1680.976@0.23.1680.976" timestamp="1611362500378" />
+    <state width="1620" height="307" key="GridCell.Tab.1.bottom" timestamp="1611358972560">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="1620" height="307" key="GridCell.Tab.1.bottom/0.23.1680.975@0.23.1680.975" timestamp="1611358972560" />
+    <state width="1620" height="307" key="GridCell.Tab.1.center" timestamp="1611358972559">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="1620" height="307" key="GridCell.Tab.1.center/0.23.1680.975@0.23.1680.975" timestamp="1611358972559" />
+    <state width="1620" height="307" key="GridCell.Tab.1.left" timestamp="1611358972559">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="1620" height="307" key="GridCell.Tab.1.left/0.23.1680.975@0.23.1680.975" timestamp="1611358972559" />
+    <state width="1620" height="307" key="GridCell.Tab.1.right" timestamp="1611358972560">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="1620" height="307" key="GridCell.Tab.1.right/0.23.1680.975@0.23.1680.975" timestamp="1611358972560" />
+    <state x="0" y="23" key="ScreenshotViewer.Dimensions" timestamp="1611353710727">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="0" y="23" key="ScreenshotViewer.Dimensions/0.23.1680.975@0.23.1680.975" timestamp="1611353710727" />
+    <state width="818" height="479" key="XDebugger.FullValuePopup" timestamp="1611344236467">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state width="818" height="479" key="XDebugger.FullValuePopup/0.23.1680.975@0.23.1680.975" timestamp="1611344236467" />
+    <state x="595" y="282" key="chooseDestDirectoryDialog" timestamp="1611360195280">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="595" y="282" key="chooseDestDirectoryDialog/0.23.1680.975@0.23.1680.975" timestamp="1611360195280" />
+    <state x="459" y="186" width="762" height="677" key="find.popup" timestamp="1611327210355">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="459" y="186" width="762" height="677" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1611327210355" />
+    <state x="459" y="196" width="762" height="628" key="find.popup/0.23.1680.975@0.23.1680.975" timestamp="1611250596450" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/domain/src/main/java/com/cleanmvvm/starwars/domain/interactors/GetSpicesDetailsUseCase.kt</url>
+          <line>15</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/data/src/main/java/com/cleanmvvm/starwars/data/dto/CharacterDetailsDTO.kt</url>
+          <line>18</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/data/src/main/java/com/cleanmvvm/starwars/data/base/Network.kt</url>
+          <line>46</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/data/src/main/java/com/cleanmvvm/starwars/data/base/Network.kt</url>
+          <line>6</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/data/src/main/java/com/cleanmvvm/starwars/data/dto/SpeciesDetailsDTO.kt</url>
+          <line>14</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/data/src/main/java/com/cleanmvvm/starwars/data/dto/SpeciesDetailsDTO.kt</url>
+          <line>13</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/starwars$CharacterDetailsViewModelTest.ic" NAME="CharacterDetailsViewModelTest Coverage Results" MODIFIED="1611362301829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.cleanmvvm.starwars.viewmodel.*</FILTER>
+    </SUITE>
+  </component>
+</project>
